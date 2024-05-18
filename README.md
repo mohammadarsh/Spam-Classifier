@@ -43,10 +43,6 @@ Once the application is running, enter your message in the provided text area an
 
 The `app.py` file loads the trained model and vectorizer, preprocesses the input message, and makes predictions using a simple TF-IDF based approach.
 
-## Screenshots/GIFs
-
-Include screenshots or GIFs here to demonstrate your application in action. You can capture different states of your application, such as when a message is classified as spam and when it's not.
-
 ## Acknowledgements
 
 - [Streamlit](https://streamlit.io/) for the easy-to-use web app framework.
